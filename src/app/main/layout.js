@@ -1,7 +1,9 @@
+import Navber from "@/components/Navber/Navber";
+
 export default function MainLayout({children}) {
     return (
      <>
-        <h2>Main Layout</h2>
+        <Navber/>
         {children}
      </>
     );

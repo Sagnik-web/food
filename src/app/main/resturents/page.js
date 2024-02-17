@@ -1,6 +1,6 @@
 
 
-export default function OrdersPlace(){
+export default function Resturents(){
     return(
         <>
         
