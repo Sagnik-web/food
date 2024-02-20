@@ -8,7 +8,7 @@ export default function orders(){
     return(
         <>
             <ul className="bg-white shadow overflow-hidden sm:rounded-md max-w-screen-lg mx-auto mt-16">
-                <DeliverOrderCard/>
+                <DeliverOrderCard con={false}/>
 
 
 

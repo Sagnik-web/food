@@ -1,9 +1,8 @@
-import Navber from "@/components/Navber/Navber";
+// import Navber from "@/components/Navber/Navber";
 
 export default function DeliverLayout({children}) {
     return (
      <>
-        <Navber/>
         {children}
      </>
     );
